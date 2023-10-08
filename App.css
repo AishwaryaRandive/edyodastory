@@ -1,0 +1,196 @@
+#main-header{
+  Background-color: #fff;
+     border: solid white;
+    box-shadow: 0 1px 1px #ccc;
+     
+   
+    }
+    body{
+      background:#efefef;
+    
+    }
+  .main-body{
+  
+    margin:0px;
+  }
+  .menu{
+    display: flex;
+  }
+  #bar1{
+    width:50%;
+  }
+  #message-button{
+    width:50%;
+    display: flex;
+    
+  
+  }
+  #message{
+    width:50%;
+    color:#a7a3a3;
+  }
+  #goTo{
+color:hsl(0, 0%, 100%);
+width:30%;
+height: 55%;
+margin-top: 18px;
+border-radius: 20px;
+background: linear-gradient(269deg,#0048ff,#0096ff);
+border: none; 
+  }
+  
+  .edyoda{
+  Width: 130px;
+  font-size: 32px;
+  color: #0084ff;
+  margin-left:80px;
+  display:inline-block;
+  font-weight:bolder;
+   
+  }
+  
+  .stories{
+  Margin-left:80px;
+    Margin-top:0px;
+  font-weight: 500;
+  font-family: 'Raleway';
+  font-style: Italic;
+  }
+  .Explore-Categories{
+    margin-left:30px;
+   color: #000;
+    display:inline-block;
+    text-align:right;
+   
+  }
+  .edyoda-posts{
+   width:80%;
+    margin-left:auto;
+     margin-right:auto;
+    
+  }
+  
+  
+  .Trending-Posts{
+  
+  margin-top: 50px;
+  font-family: 'Raleway', sans-serif
+  
+  }
+  
+  .Filter-by-category{
+    font-size: 14px;
+    font-size: 14px;
+  font-weight: 600;
+  margin-left: 8px;
+  }
+  .filtericon{
+    color: #0084ff;
+    }
+  .all-comtainers{
+  Padding-top: 25px;
+    Padding-bottom:25px;
+  }
+  #all-comtainers1{
+    padding-bottom: 20px;
+
+  }
+  .container{
+    font-size: 12px;
+  Padding: 5px 9px;
+  width:auto;
+  color:#0084ff;
+  Border-radius: 15px;
+  Border: 1px solid #0084ff;
+  Margin: 5px;
+  Cursor: pointer;
+    }
+  .container:hover{
+   color: #fff;
+  Background-color: #0084ff;
+  }
+  .items{
+  
+  width: 50%;
+  height: 1000px;
+  margin-left: 160px;
+  
+  }
+  .card{
+    display: flex;
+    
+  }
+  .Cards{
+    Cursor: pointer;
+    border:1px solid #a3f0ed;
+    Width:50%;
+    min-width: 50%;
+    height:400px;
+    margin:10px;
+    
+    background-color:white;  
+    box-shadow: 0px 0px 8px #ccc;
+    border-radius: 5px;
+  }
+  .image{
+  height: 140px;
+  Width: 100%;
+  border-top-right-radius:5px;
+  border-top-left-radius:5px;
+  }
+  .textsection{
+   height: 240px;
+  Width: 90%;
+  margin-right:auto;
+    margin-left:auto;
+     white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis; 
+   
+  }
+  .card-heading{
+    font-family: Raleway,sans-serif;
+    font-style: normal;
+    font-stretch: normal;
+    letter-spacing: normal;
+    text-align: left;
+  }
+  .Author-container{
+    font-size: .75em;
+    font-weight: 500;
+    line-height: 2;
+    color: #0096ff;
+    padding-top: 4px;
+  }
+  .auther-name{
+  color: #0096ff;
+  font-size: 14px;
+  
+  font-weight: 500;
+  }
+  .date{
+    font-size: 12px;
+    font-weight: 300;
+    font-style: normal;
+    color: #000;
+    margin-top: 0.3em;
+    font-family: Roboto;
+  }
+  
+  .course-info{
+    font-family: Raleway;
+    font-size: 14px;
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.43;
+    letter-spacing: .35px;
+    text-align: left;
+    color: #9e9b9b;
+    margin: 0.3em 0;
+    white-space: pre-wrap;
+    
+  }
+  
+  
+  
